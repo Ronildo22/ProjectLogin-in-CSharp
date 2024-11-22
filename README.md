@@ -6,4 +6,4 @@
 # Developed In:
 - C#
 - .NET
-- SQL Server
+- MSSQL
